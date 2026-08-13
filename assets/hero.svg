@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Massnaev - vibe coder, founder and builder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08070d"/>
+      <stop offset="0.58" stop-color="#100b1b"/>
+      <stop offset="1" stop-color="#070a08"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+    <linearGradient id="acid" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bef264"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glowViolet" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowGreen" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#a78bfa" stroke-opacity="0.065"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 292C220 244 386 338 620 282S978 206 1200 256" fill="none" stroke="url(#violet)" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M0 315C238 267 410 351 641 302S990 231 1200 278" fill="none" stroke="url(#acid)" stroke-opacity="0.12" stroke-width="2"/>
+
+  <g transform="translate(66 63)">
+    <rect width="126" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.42"/>
+    <circle cx="17" cy="15" r="4" fill="#bef264" filter="url(#glowGreen)"/>
+    <text x="31" y="20" fill="#d8b4fe" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">ONLINE / BUILDING</text>
+
+    <text y="106" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="900" letter-spacing="4">MASSNAEV</text>
+    <rect y="127" width="485" height="4" rx="2" fill="url(#violet)" filter="url(#glowViolet)"/>
+    <text y="178" fill="#bef264" font-family="Consolas, monospace" font-size="22" font-weight="700">VIBE CODER / FOUNDER / PRODUCT BUILDER</text>
+    <text y="216" fill="#b6aec6" font-family="Segoe UI, Arial, sans-serif" font-size="18">Turning ambitious ideas into AI systems, apps and digital products.</text>
+  </g>
+
+  <g transform="translate(820 42)">
+    <circle cx="157" cy="138" r="126" fill="#7c3aed" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.18"/>
+    <circle cx="157" cy="138" r="94" fill="#111016" stroke="#d946ef" stroke-opacity="0.26"/>
+    <path d="M61 136Q157 57 253 136Q157 215 61 136Z" fill="#0b0a0f" stroke="url(#violet)" stroke-width="4" filter="url(#glowViolet)"/>
+    <ellipse cx="157" cy="136" rx="44" ry="58" fill="url(#acid)" filter="url(#glowGreen)"/>
+    <ellipse cx="157" cy="136" rx="17" ry="49" fill="#080a07"/>
+    <circle cx="173" cy="111" r="8" fill="#ffffff" fill-opacity="0.72"/>
+    <path d="M73 88L35 50M241 88L279 50M71 190L32 228M243 190L282 228" stroke="#a78bfa" stroke-opacity="0.38" stroke-width="2"/>
+    <text x="157" y="310" text-anchor="middle" fill="#756d83" font-family="Consolas, monospace" font-size="12" letter-spacing="4">VISION INTO CODE</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#a78bfa" stroke-opacity="0.2" stroke-width="2"/>
+</svg>
