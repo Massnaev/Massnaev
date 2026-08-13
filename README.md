@@ -14,8 +14,8 @@
         engineering, choosing the stack that gets the product into users' hands.
       </p>
       <p>
-        Currently building <b>NVA New Vision Agency</b> and experimenting with local AI,
-        intelligent infrastructure and product-first software.
+        Currently focused on <b>Quantum AI</b>: a modular AI system built around a compact
+        coordinator, specialist models, tools, measurable evaluation and safety by design.
       </p>
       <p><code>idea -> prototype -> product -> iterate</code></p>
     </td>
@@ -55,9 +55,9 @@
       <p><code>Linux</code> <code>Shell</code> <code>Systems</code> <code>Architecture</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://nva-site-publish.vercel.app">NVA</a></h3>
-      <p>Digital agency and product studio for websites, mini apps, presentations and MVPs.</p>
-      <p><code>Web</code> <code>Product</code> <code>Design</code> <code>AI workflow</code></p>
+      <h3>Quantum Training Pipeline</h3>
+      <p>Reproducible data preparation, LoRA/SFT experiments, adapter evaluation and safety regression testing.</p>
+      <p><code>Python</code> <code>LoRA</code> <code>Benchmarks</code> <code>Safety</code></p>
     </td>
   </tr>
   <tr>
@@ -92,8 +92,9 @@ Telegram       bots, mini apps, payments and operational tooling
 
 ## Now
 
-- Developing Quantum as a local routed AI system.
-- Building NVA New Vision Agency with two co-founders.
+- Developing Quantum Core as a compact coordinator for models, tools and safe execution.
+- Building reproducible training, benchmark and adapter-evaluation workflows.
+- Designing the future Quantum Agent Workspace and Training Studio.
 - Shipping experiments at the intersection of AI, products and infrastructure.
 - Open to ambitious collaborations and early-stage product work.
 
