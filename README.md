@@ -50,9 +50,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>MESS VPN</h3>
-      <p>Telegram product with a customer bot, staff tools, web cabinet and payment integrations.</p>
-      <p><code>Python</code> <code>Telegram</code> <code>Payments</code> <code>Web</code></p>
+      <h3>SMD OS</h3>
+      <p>Experimental Linux-based platform with its own package format and custom hardware integration.</p>
+      <p><code>Linux</code> <code>Shell</code> <code>Systems</code> <code>Architecture</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://nva-site-publish.vercel.app">NVA</a></h3>
